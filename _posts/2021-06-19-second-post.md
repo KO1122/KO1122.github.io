@@ -1,5 +1,5 @@
 --- 
- title: "First Post"
+ title: "Second Post"
 date: 2021-06-19
 excerpt: "This is my second post."
 mathjax: true
