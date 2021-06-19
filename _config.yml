@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Kyle Ong"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/Bear.jpeg"
   bio              : "I am a student."
   location         : "Philippines"
   email            :
